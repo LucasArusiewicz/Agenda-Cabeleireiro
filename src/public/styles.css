@@ -217,7 +217,7 @@ ul.providers {
 }
 
 .provider a {
-  background: #7159c1;
+  background: #5995c1;
   padding: 5px 10px;
   font-weight: bold;
   text-decoration: none;
@@ -283,10 +283,10 @@ ul.providers {
   font-size: 14px;
   border: 0;
   color: #fff;
-  background: #7159c1;
+  background: #5995c1;
   margin-top: 5px;
 }
 
 .main-wrapper .content form button:hover {
-  background: #634dac;
+  background: #256da2;
 }

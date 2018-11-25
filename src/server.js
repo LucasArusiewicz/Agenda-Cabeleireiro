@@ -21,7 +21,7 @@ class App {
       session({
         name: 'root',
         secret: 'secret',
-        resabe: true,
+        resave: true,
         store: new FileStore({
           path: path.resolve(__dirname, '..', 'tmp', 'sessions')
         }),
